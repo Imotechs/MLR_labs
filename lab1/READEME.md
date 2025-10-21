@@ -1,6 +1,9 @@
 # Machine Learning Regression and Data-Driven Modeling lab work
 
-This repository contains practical implementations of **Singular Value Decomposition (SVD)**, linear regression, LASSO, Robust PCA, and dimensionality reduction techniques on real datasets. The lab demonstrates how matrix decomposition can be applied to image compression, housing price prediction, facial recognition, and denoising.
+
+Link here:: https://colab.research.google.com/drive/1t_5Mb27i4r-WqN299ATNj4CLWlbh4RZp?usp=sharing 
+
+This repository contains practical implementations of **Singular Value Decomposition (SVD) and general DDM**, linear regression, LASSO, Robust PCA, and dimensionality reduction techniques on real datasets. The lab demonstrates how matrix decomposition can be applied to image compression, housing price prediction, facial recognition, and denoising.
 
 ## Overview
 
