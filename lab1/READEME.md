@@ -1,4 +1,4 @@
-# Machine Learning Regression and Data-Driven Modeling Practice
+# Machine Learning Regression and Data-Driven Modeling lab work
 
 This repository contains practical implementations of **Singular Value Decomposition (SVD)**, linear regression, LASSO, Robust PCA, and dimensionality reduction techniques on real datasets. The lab demonstrates how matrix decomposition can be applied to image compression, housing price prediction, facial recognition, and denoising.
 
