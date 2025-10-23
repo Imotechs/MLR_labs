@@ -6,7 +6,7 @@ The key idea is to incorporate known physical constraints into deep learning mod
 Link here : https://colab.research.google.com/drive/1r9MUMBBHu64R3DSrFCDsOfGYkh11WA8v?usp=sharing
 ![alt text]({D29493A3-0BCA-4F47-A1DB-B65E120013BB}.png)
 ## Task 1: ODE Solution — 
-```bash
+```latex
 \( N[y, x] = \frac{d^2y}{dx^2} + y = 0 \)
 ```
 
